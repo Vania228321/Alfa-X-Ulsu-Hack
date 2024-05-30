@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Bearded Theme Monokai Metallian",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 24,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "explorer.compactFolders": false
+}
